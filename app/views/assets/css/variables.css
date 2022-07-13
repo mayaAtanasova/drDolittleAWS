@@ -1,0 +1,19 @@
+:root {
+  --font-size-body: 14px;
+  --font-size-body-larger: 16px;
+  --font-size-body-big: 18px;
+  --font-size-body-huge: 20px;
+
+  /* --layout-main-width: 60em; */
+
+  --color-body-text: #000;
+  --color-cards-bgrd: #e6e6e6;
+  --color-link-default: #AD2A26;
+  --color-link-hover:#b64d4a;
+
+  --color-inactive-default: rgb(rgb(185, 184, 184), 61, 61);
+
+  --spacing-layout-elements: 2em;
+
+  --border-radius: 0.4em;
+}
